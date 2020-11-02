@@ -3,7 +3,7 @@
 During 12 week coding course from Makers Academy I have strengthened both my coding can communication skills, and created a [Facebook clone with a live chat](https://github.com/tristanlangford/acebook-brainaics) and a [VIM style game](https://github.com/RaeRachael/invimcible_front_end)
 
 Since Makers I have worked on a few personal projects;
-*	An exploration game, with a [terminal version]{https://github.com/RaeRachael/exploration_game) and a [web version with touch screen controls possible]((https://github.com/RaeRachael/JS_exploration_game)
+*	An exploration game, with a [terminal version](https://github.com/RaeRachael/exploration_game) and a [web version with touch screen controls possible](https://github.com/RaeRachael/JS_exploration_game)
 *	An [audio only TypeScript game](https://github.com/RaeRachael/Audio_game), which is still being improved
 *	Ongoing work on adding features and maintaining the open source [administrate gem](https://github.com/thoughtbot/administrate)
 
