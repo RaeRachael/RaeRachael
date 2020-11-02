@@ -11,7 +11,6 @@ Some useful links;
 * [CV on github](https://github.com/RaeRachael/CV)
 * Recently completed [C# tech test](https://github.com/RaeRachael/my-chat-dotnet)
 
-Currently while in my spare time I will be working on adding functionality via a TDD process to the [JS web version](https://github.com/RaeRachael/JS_exploration_game) of my little exploration game, the aim is to get the basic functionality to the same point as in the [Ruby terminal version](https://github.com/RaeRachael/exploration_game). 
 
 <!--
 **RaeRachael/RaeRachael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
