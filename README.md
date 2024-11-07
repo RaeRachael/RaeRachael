@@ -2,7 +2,7 @@
 
 ## current personal project
 
-[Annotated English](https://arxiv.org/abs/1012.5962) is a concept written up in 2010 by Jos´e Hern´andez-Orallo, I have been working on extending it to return plainstrings using unicode character for the annotations. The code can be found [here](https://github.com/RaeRachael/Annontated-English), with the current react app deployed on [heroku](https://annotated-english.herokuapp.com/annotation)
+[Annotated English](https://arxiv.org/abs/1012.5962) is a concept written up in 2010 by Jos´e Hern´andez-Orallo, I have been working on extending it to return plainstrings using unicode character for the annotations. The code can be found [here](https://github.com/RaeRachael/Annontated-English), with the current react app deployed via [surge]([https://annotated-english.surge.sh/])
 
 ## previous projects
 *	An exploration game, with a [terminal version](https://github.com/RaeRachael/exploration_game) and a [web version with touch screen controls possible](https://github.com/RaeRachael/JS_exploration_game)
